@@ -5,10 +5,29 @@ h1{
 
 h4{
     margin:0px;
+    margin-top: 15px ;
     padding:0px;
 }
 
 hr{
     margin:0px;
+    padding:0px;
+    /*make larger*/
+}
+
+ul{
+    
+    margin:0px;
+    
+}
+
+p{
+    margin:0px;
+    padding:0px;
+}
+
+.projects{
+    margin:0px;
+    margin-top: 20px ;
     padding:0px;
 }
