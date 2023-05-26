@@ -2,7 +2,8 @@ h1{
     text-align: center;
     font-weight: bolder;
     font-size:50px;
-    color:rgb(20, 156, 115);
+    color:rgb(3, 59, 42);
+    
 }
 
 h4{
@@ -10,7 +11,7 @@ h4{
     margin-top: 15px ;
     padding:0px;
     font-size:25px;
-    color:rgb(20, 156, 115);
+    color:rgb(3, 59, 42);
 
 }
 
@@ -18,7 +19,7 @@ hr{
     margin:0px;
     padding:0px;
     height:1px;
-    background:black;
+    background:rgb(3, 59, 42);
     /*make larger*/
 }
 
@@ -38,6 +39,7 @@ p{
     margin:0px;
     margin-top: 20px ;
     padding:0px;
+    color:rgb(3, 59, 42);
     
 }
 
@@ -56,13 +58,15 @@ p{
 }
 strong{
     font-size:15px;
+    color:rgb(3, 59, 42);
 }
 
 body{
     max-width:60em;
     margin:auto;
     padding:60px;
-    border: solid;
+    border: solid ;
+    border-color: rgb(3, 59, 42);
 }
 
 li{
@@ -73,3 +77,6 @@ a{
     color:black;
     font-weight: bold;
 }
+
+
+ 
